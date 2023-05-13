@@ -1,0 +1,2 @@
+# Website-traffic-forecasting
+Website traffic forecasting involves predicting the future number of visitors or users that will access a website over a given time period. It is a valuable task for website owners and administrators as it helps them make informed decisions about resource allocation, server capacity, marketing campaigns, and content planning. Deep learning can be used to build effective models for website traffic forecasting
